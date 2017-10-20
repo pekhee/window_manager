@@ -1,0 +1,8 @@
+xmonad.errors
+xmonad.hi
+xmonad.o
+xmonad*
+taffybar*
+xprofile
+TAGS
+*.swp
